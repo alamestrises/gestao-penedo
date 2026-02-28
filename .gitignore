@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Temporary files
+.tmp/
+
+# Credentials
+credentials.json
+token.json
